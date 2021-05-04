@@ -14,7 +14,7 @@ yarn add react-use-smart-state
 
 ```jsx
 import React, { useState, useEffect } from 'react'
-import { useWhenMounted } from 'react-use-when-mounted'
+import { useSmartState } from 'react-use-smart-state'
 
 interface IPerson {
     name: string
