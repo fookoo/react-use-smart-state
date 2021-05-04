@@ -1,6 +1,6 @@
 {
   "name": "react-use-smart-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React hook for less unnecessary state updates",
   "keywords": [
     "react",
@@ -31,7 +31,6 @@
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "12.6.0",
     "@types/react": "^17.0.4",
-    "prettier": "^2.2.1",
-    "typescript": "^4.2.4"
+    "prettier": "^2.2.1"
   }
 }
