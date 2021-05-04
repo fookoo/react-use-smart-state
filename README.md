@@ -1,6 +1,8 @@
 # React useSmartState
 
-useSmartState is just a useState on steroids. For simple values like string, boolean, number works exactly the same as useState, but for nested objects it prevent from unnecessary updates
+useSmartState is just a useState on steroids. 
+
+For simple values like string, boolean, number works exactly the same as useState, but for objects it prevent from unnecessary updates
 
 ## Getting started
 
