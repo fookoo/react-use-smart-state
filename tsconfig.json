@@ -9,12 +9,9 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "forceConsistentCasingInFileNames": true,
-    "jsx": "react-jsx",
-    "lib": [
-      "dom",
-      "es2019"
-    ],
-    "module": "esnext",
+    "jsx": "react",
+    "lib": ["dom","es2019"],
+    "module": "commonjs",
     "moduleResolution": "node",
     "noFallthroughCasesInSwitch": true,
     "noImplicitAny": true,
@@ -23,8 +20,6 @@
     "skipLibCheck": true,
     "sourceMap": true,
     "strictFunctionTypes": false,
-    "allowJs": true,
-    "resolveJsonModule": true,
   },
   "include": [
     "src"
